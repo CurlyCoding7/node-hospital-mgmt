@@ -1,0 +1,2 @@
+{"_id":{"$oid":"65bbbe4c88e9be89934f6733"},"name":"Gagan","address":"Sec 92, Gurugram","email":"gagan@example.com","phone":"+911234567890","password":"12345678","photo":"default.png","psychiatrist":{"$oid":"65bbb80e51f247e742e85f8c"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"65bbc27e88e9be89934f6736"},"name":"Love","address":"Sec 9, Noida","email":"love@example.com","phone":"+911234567890","password":"12345678","photo":"default.png","psychiatrist":{"$oid":"65bbb80e51f247e742e85f8c"},"__v":{"$numberInt":"0"}}
